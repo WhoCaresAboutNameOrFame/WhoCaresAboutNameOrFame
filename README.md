@@ -9,6 +9,9 @@ HOPE FOR THE BEST & EXPECT THE WORST
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pranithdutta/)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranithdutta/)
+
+
 
 <!--
 
